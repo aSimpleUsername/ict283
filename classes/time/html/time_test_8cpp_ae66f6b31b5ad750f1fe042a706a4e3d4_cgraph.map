@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,56,108"/>
+<area shape="rect" id="node2" href="$time_test_8cpp.html#a373e578d001bd958150d0bfd9137b55a" title=" " alt="" coords="123,81,223,108"/>
+<area shape="rect" id="node4" href="$time_test_8cpp.html#afd5e8f3404fec8f96147072f1a12d440" title=" " alt="" coords="104,31,243,57"/>
+<area shape="rect" id="node6" href="$time_test_8cpp.html#a15622d9bbd8efd516be27a451d8d3242" title=" " alt="" coords="131,132,216,159"/>
+<area shape="rect" id="node3" href="$class_time.html#ac354964ab755711a94e57bd8f6ca574d" title="Combines hours and minutes as a string." alt="" coords="291,56,429,83"/>
+<area shape="rect" id="node5" href="$class_time.html#a6c9c70bbb7bfb1de8ff0e2930d1a6962" title="Overloaded constructor." alt="" coords="317,5,403,32"/>
+<area shape="rect" id="node7" href="$class_time.html#aa7d14f4a99fa793afce593585d110a29" title="Gets hours." alt="" coords="312,208,408,235"/>
+<area shape="rect" id="node8" href="$class_time.html#aab27b2a6f5a041d1cd059de2e7409178" title="Gets minutes." alt="" coords="308,259,412,285"/>
+<area shape="rect" id="node9" href="$class_time.html#a13af3b6a759e48f9feffa8ed68e494c5" title="Set hours." alt="" coords="312,107,408,133"/>
+<area shape="rect" id="node10" href="$class_time.html#a42d3b466ec28bbe58d9fe34639a57084" title="Set minute." alt="" coords="308,157,412,184"/>
+</map>

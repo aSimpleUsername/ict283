@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591619723 source:d:\school\20s1\ict283\classes\map\maptest.cpp
+	<iostream>
+	"map.h"
+	"string"
+
+1591619879 d:\school\20s1\ict283\classes\map\map.h
+	<map>
+
