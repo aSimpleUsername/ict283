@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587047326 source:d:\school\20s1\ict283\lab05\vector\vectortest.cpp
+	<iostream>
+	"vector.h"
+
+1587047486 d:\school\20s1\ict283\lab05\vector\vector.h
+
+1588582286 source:d:\school\20s1\ict283\classes\vector\vectortest.cpp
+	<iostream>
+	"vector.h"
+
+1588582247 d:\school\20s1\ict283\classes\vector\vector.h
+
