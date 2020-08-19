@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588094267 source:d:\school\20s1\ict283\classes\time\timetest.cpp
+	<iostream>
+	"time.h"
+
+1588109393 d:\school\20s1\ict283\classes\time\time.h
+	<string>
+	<sstream>
+
+1588109439 source:d:\school\20s1\ict283\classes\time\time.cpp
+	"time.h"
+

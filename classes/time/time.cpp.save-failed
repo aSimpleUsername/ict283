@@ -1,0 +1,27 @@
+// time.cpp - time class implementation
+// author Connor Nicholson - 29 Apr 20
+
+#include "time.h"
+
+Time::Time()
+{
+    m_mins = 0;
+    m_hrs = 0;
+}
+
+Time::Time(int mins, int hrs)
+{
+    m_mins = mins;
+    m_hrs = hrs;
+}
+
+void Time::setMins(int mins) {m_mins = mins;}
+int Time::getMins() const {return m_mins;}
+
+void Time::setHrs(int hrs) {m_hrs = hrs;}
+int Time::getHrs() const {return m_hrs;}
+
+std::string Time::getTimeString() const;
+{
+    return(std::to_string(m_mins) + ":" + std::to_string(m_hrs));
+}

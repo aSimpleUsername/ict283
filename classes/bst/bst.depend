@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1589979822 source:d:\school\20s1\ict283\classes\bst\bsttest.cpp
+	<iostream>
+	"bst.h"
+	"../date/date.h"
+
+1589980127 d:\school\20s1\ict283\classes\bst\bst.h
+	<stdio.h>
+
+1589971389 d:\school\20s1\ict283\classes\date\date.h
+	<string>
+	<sstream>
+
+1589971421 source:d:\school\20s1\ict283\classes\date\date.cpp
+	"date.h"
+
