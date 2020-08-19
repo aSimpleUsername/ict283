@@ -1,8 +1,0 @@
-<map id="testSetGet" name="testSetGet">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,91,133"/>
-<area shape="rect" id="node2" href="$class_time.html#aa7d14f4a99fa793afce593585d110a29" title="Gets hours." alt="" coords="160,5,256,32"/>
-<area shape="rect" id="node3" href="$class_time.html#aab27b2a6f5a041d1cd059de2e7409178" title="Gets minutes." alt="" coords="156,56,260,83"/>
-<area shape="rect" id="node4" href="$class_time.html#ac354964ab755711a94e57bd8f6ca574d" title="Combines hours and minutes as a string." alt="" coords="139,107,277,133"/>
-<area shape="rect" id="node5" href="$class_time.html#a13af3b6a759e48f9feffa8ed68e494c5" title="Set hours." alt="" coords="160,157,256,184"/>
-<area shape="rect" id="node6" href="$class_time.html#a42d3b466ec28bbe58d9fe34639a57084" title="Set minute." alt="" coords="156,208,260,235"/>
-</map>
