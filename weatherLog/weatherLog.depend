@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1591014352 source:d:\school\20s1\ict283\forgithub\classes\date\date.cpp
+	"date.h"
+
+1591644786 d:\school\20s1\ict283\forgithub\classes\date\date.h
+	<string>
+	<sstream>
+
+1591248084 source:d:\school\20s1\ict283\forgithub\classes\time\time.cpp
+	"time.h"
+
+1591644604 d:\school\20s1\ict283\forgithub\classes\time\time.h
+	<string>
+	<sstream>
+
+1591643644 source:d:\school\20s1\ict283\forgithub\classes\windlogoutput\outputclass.cpp
+	"outputClass.h"
+
+1591645502 d:\school\20s1\ict283\forgithub\classes\windlogoutput\outputclass.h
+	<iostream>
+	<string>
+	"stats/stats.h"
+	"windlog/windlogType.h"
+	"BST/BST.h"
+	"map/map.h"
+
+1588694538 d:\school\20s1\ict283\forgithub\classes\stats\stats.h
+	"vector/vector.h"
+	<cmath>
+
+1591644740 d:\school\20s1\ict283\forgithub\classes\vector\vector.h
+	<vector>
+
+1597853936 d:\school\20s1\ict283\forgithub\classes\vector
+
+1591635066 d:\school\20s1\ict283\forgithub\classes\windlog\windlogtype.h
+	"vector/vector.h"
+	"date/date.h"
+	"time/time.h"
+
+1591128880 d:\school\20s1\ict283\forgithub\classes\bst\bst.h
+	<stdexcept>
+
+1591645320 d:\school\20s1\ict283\forgithub\classes\map\map.h
+	<map>
+
+1597853925 d:\school\20s1\ict283\forgithub\classes\map
+
+1591726152 source:d:\school\20s1\ict283\forgithub\weatherlog\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"windlog/windlogType.h"
+	"windlogOutput/outputClass.h"
+
